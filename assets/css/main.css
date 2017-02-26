@@ -60,7 +60,7 @@
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: 'museo-sans', sans-serif;
+		font-family: "nimbus-sans",sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
@@ -503,15 +503,15 @@
 	}
 
 		#header h1 {
-			font-family: sans-serif;
+			font-family: "nimbus-sans",sans-serif;
 			font-size: 4.35em;
-			font-weight: 900;
+			font-weight: 700;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
 
 		#header p {
-			font-family: sans-serif;
+			font-family: "nimbus-sans",sans-serif;
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
@@ -927,12 +927,12 @@
 	/* Header */
 
 		#header h1 {
-			font-family: sans-serif;
+			font-family: "nimbus-sans",sans-serif;
 			font-size: 2.5em;
 		}
 
 		#header p {
-			font-family: 'museo-sans', sans-serif;
+			font-family: "nimbus-sans",sans-serif;
 			font-size: 1em;
 		}
 
